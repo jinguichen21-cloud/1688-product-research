@@ -1,0 +1,5 @@
+2026/03/17-15:32:38.566 a154 Creating DB C:\Users\Admin\.real\.skills\2de13559-8238-4bb1-bffb-fb66c0118274\.chrome-profile\Default\Local Storage\leveldb since it was missing.
+2026/03/17-15:32:38.602 a154 Reusing MANIFEST C:\Users\Admin\.real\.skills\2de13559-8238-4bb1-bffb-fb66c0118274\.chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/17-15:32:55.927 a154 Level-0 table #5: started
+2026/03/17-15:32:55.931 a154 Level-0 table #5: 205517 bytes OK
+2026/03/17-15:32:55.933 a154 Delete type=0 #3
