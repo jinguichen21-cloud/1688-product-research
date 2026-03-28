@@ -1,0 +1,6 @@
+2026/03/24-17:15:16.773 4ff0 Reusing MANIFEST C:\Users\Admin\.real\users\user-eec7ff761465ec80b5b6278df6f7e31f\.skills\2de13559-8238-4bb1-bffb-fb66c0118274\.chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/24-17:15:16.783 4ff0 Recovering log #4
+2026/03/24-17:15:16.786 4ff0 Reusing old log C:\Users\Admin\.real\users\user-eec7ff761465ec80b5b6278df6f7e31f\.skills\2de13559-8238-4bb1-bffb-fb66c0118274\.chrome-profile\Default\Local Storage\leveldb/000004.log 
+2026/03/24-17:15:32.238 cd4 Level-0 table #8: started
+2026/03/24-17:15:32.244 cd4 Level-0 table #8: 87304 bytes OK
+2026/03/24-17:15:32.247 cd4 Delete type=0 #4
